@@ -20,6 +20,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[osTicket: Ticket Lifecycle Creation and Handling](https://github.com/terryspeights/osTicket-Lifecycle)**
 
 
+## 🚨 Active Directory
+
+- **[Active Directory: Configuring of On-premise AD within Azure VMs](ttps://github.com/terryspeights/Active-Directory)**
+- **[Active Directory: Account Lockouts & Management](https://github.com/terryspeights/osticket-prereqs)**
+
 <hr/>
 
 ## 🤳 Connect With Me
