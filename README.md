@@ -20,9 +20,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[osTicket: Ticket Lifecycle Creation and Handling](https://github.com/terryspeights/osTicket-Lifecycle)**
 - **[VPN: Virtual Private Network Installation and Use](https://github.com/terryspeights/VPN-Setup)**
 
-- 
-
-
 ## 🚨 Active Directory
 
 - **[Active Directory: Configuring of On-premise AD within Azure VMs](https://github.com/terryspeights/Active-Directory)**
