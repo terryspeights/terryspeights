@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Information Technology Projects
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/terryspeights/threat-hunting-scenario-tor-)**
+- **[osTickets-Prereqs]([https://github.com/terryspeights/osticket-prereqs])**
   
 
 <hr/>
