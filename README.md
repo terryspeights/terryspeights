@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/terryspeights/threat-hunting-scenario-tor-)**
-- **[Azure SOC](https://github.com/terryspeights/Azure-SOC))**
+- **[Azure SOC - HoneyNet](https://github.com/terryspeights/Azure-SOC))**
 
 ## 🚨 Information Technology Projects
 
