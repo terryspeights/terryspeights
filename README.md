@@ -15,7 +15,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Information Technology Projects
 
 - **[osTickets-Prereqs](https://github.com/terryspeights/osticket-prereqs)**
-  
+- **[osTicket-Post-Installation-Configuration](https://github.com/terryspeights/osTicket-Post-Installation-Configuration)**
+
 
 <hr/>
 
