@@ -22,7 +22,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Active Directory
 
-- **[Active Directory: Configuring of On-premise AD within Azure VMs](ttps://github.com/terryspeights/Active-Directory)**
+- **[Active Directory: Configuring of On-premise AD within Azure VMs](https://github.com/terryspeights/Active-Directory)**
 - **[Active Directory: Account Lockouts & Management](https://github.com/terryspeights/osticket-prereqs)**
 
 <hr/>
